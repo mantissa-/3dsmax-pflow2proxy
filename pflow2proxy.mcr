@@ -1,7 +1,6 @@
 -- Pflow2Proxy 1.0 - 05/05/14
 -- Developed by Midge Sinnaeve
 -- www.themantissa.net
--- midge@daze.tv
 -- Licensed unde GPL v2
 
 macroScript PFlow2Proxy
